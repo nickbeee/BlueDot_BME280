@@ -6,7 +6,7 @@ It can also be used for the BMP280 (no humidity support) by configuring the CHIP
 - BMP280 = 0x58
 
 I have added an additional example showing 3x BMP280 caclulating the mean pressure of the closest pair
-and converting QFE (station pressure) to sea-level pressure (QNH). NB - 08-01-2017.
+and converting QFE (station pressure) to sea-level pressure (QNH). NB - 08-01-2018.
 
 
 ## **Repository Contents**
